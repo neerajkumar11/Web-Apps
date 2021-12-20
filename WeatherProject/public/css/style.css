@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  background-image: url(https://openweathermap.org/themes/openweathermap/assets/img/new-history-forecast-bulk.png);
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.formOut{
+  margin: 100px auto;
+  height: rgb(0, 0, 0, 0.5);px;
+  background-color: rgb(0,0,0,0.5);
+
+}
+
+.form{
+  width: 50%;
+  margin-top: 60px;
+}
