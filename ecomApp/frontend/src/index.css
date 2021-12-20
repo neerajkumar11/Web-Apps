@@ -1,0 +1,51 @@
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding-top: 0.5rem 0;
+}
+
+.star {
+  margin: 0.1rem;
+}
+
+.price {
+  padding-top: 10px;
+  font-size: medium;
+}
+
+.trashBtn {
+  font-size: 1rem;
+}
+
+.shippingStep1 {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 12px;
+  padding-right: 0;
+  min-width: fit-content;
+}
+
+.shippingStep {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+  min-width: fit-content;
+}
+
+.hline {
+  margin-top: 0;
+  margin-bottom: 0;
+}
